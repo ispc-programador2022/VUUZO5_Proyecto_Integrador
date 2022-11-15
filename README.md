@@ -1,2 +1,3 @@
-# VUUZO5_Proyecto_Integrador
-Proyecto Integrador - Grupo VUUZO5
+# Ranking Mundial de Ajedrez
+Proyecto Tecnológico Integrador
+Proyecto GAMA - Grupo VUUZO5
