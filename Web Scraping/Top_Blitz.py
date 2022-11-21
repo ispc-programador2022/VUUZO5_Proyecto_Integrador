@@ -54,5 +54,3 @@ for i in players_rank:
 
 df = pd.DataFrame({'Name':players_name, 'Elo':players_elo, 'Rank':players_rat}, index=list(range(1,10)))
 
-
-
